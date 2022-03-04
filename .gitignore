@@ -1,0 +1,6 @@
+*.dropbox.attrs
+*.ipynb_checkpoints
+*.Identifier
+*.pptx
+.*RData
+Harry Potter/
